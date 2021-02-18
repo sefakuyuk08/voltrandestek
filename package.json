@@ -1,0 +1,25 @@
+{
+  "name": "Lexy Bot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Hasan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "funny-words": "^0.1.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  }
+}
